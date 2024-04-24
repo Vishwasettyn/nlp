@@ -1,0 +1,1 @@
+{"global_step": 160, "correct": 471, "similar": 843, "incorrect": 486, "train_loss": 1.2412196397781372, "eval_loss": -5.528837916217273, "_timestamp": 1711553623.194905, "_runtime": 7703.705389022827, "_step": 12, "Training loss": 0.9125049114227295, "lr": 2.666666666666667e-06, "_wandb": {"runtime": 7897}}
